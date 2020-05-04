@@ -1,0 +1,28 @@
+[
+  {
+
+    "id":1,
+    "product_name":"KitKat",
+    "Quantity":300,
+    "Price":"6000"
+  },
+  {
+
+    "id":2,
+    "product_name":"Cocacola",
+    "Quantity":200,
+    "Price":"4500"
+  },
+  {
+
+    "id":3,
+    "product_name":"pizza",
+    "Quantity":39,
+    "Price":"8000"
+  }
+
+
+
+
+
+]
